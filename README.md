@@ -58,7 +58,7 @@ Features:
 
 ### Reference build
 
-* Motors - [EMAX ECO II 2807](https://bit.ly/34RYWGk)
+* Motors - [EMAX ECO II 2807](https://bit.ly/3g3g0Qh)
 * ESC - [Foxeer Reaper Mini 60A](https://bit.ly/2QaBWy2)
 * Flight controller - [ZEEZ F7 2020](https://bit.ly/3uD8srp)
 * Propllers - [DALprop FOLD F7 v2](https://bit.ly/3ikpE2b) 
