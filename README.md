@@ -10,7 +10,9 @@ All the Pirx frames are available to you for free under the Creative Commons BY-
 1. You can modify the files and publish them as long as you give attribution and release under the same license
 1. You **CAN NOT** mill and sell Pirx frames to others. Commercial usage of the deisign files is prohibited
 
-Pirx Frames are available to you free of any charge with tons of 3D printed accessories, designs and tunes. If you like my work, please consider [sending me a small tip for coffee, beer or something! Thanks a lot!](https://paypal.me/pawelspychalski)
+Pirx Frames are available to you free of any charge with tons of 3D printed accessories, designs and tunes. If you like my work, please consider sending me a small tip for coffee, beer or something! Thanks a lot!
+
+[![PayPal Donate](assets/donate.png)](https://paypal.me/pawelspychalski)
 
 ## Pirx HD.7
 
