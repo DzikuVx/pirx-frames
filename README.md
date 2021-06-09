@@ -8,7 +8,9 @@ The official repository of Pirx quadcopter frames
 All the Pirx frames are available to you for free under the Creative Commons BY-NC-4.0 license. This means that:
 1. You can download all the designs and order frame milled wherever you want and use them however you like
 1. You can modify the files and publish them as long as you give attribution and release under the same license
-1. You **CAN NOT** mill and sell Pirx frames to others. Commercial usage of the deisign files is prohibited
+1. You **CAN NOT** mill and sell Pirx frames to others. Commercial usage of the deisign files is prohibited without a seprate license agreement
+1. If you would like to sell Pirx frames, contact me via email 
+<a href="mailto:pspychalski@gmail.com">pspychalski@gmail.com</a>
 
 Pirx Frames are available to you free of any charge with tons of 3D printed accessories, designs and tunes. If you like my work, please consider sending me a small tip for coffee, beer or something! Thanks a lot!
 
