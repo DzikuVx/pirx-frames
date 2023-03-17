@@ -10,7 +10,7 @@ All the Pirx frames are available to you for free under the Creative Commons BY-
 1. You can modify the files and publish them as long as you give attribution and release under the same license
 1. You **CAN NOT** mill and sell Pirx frames to others. Commercial usage of the deisign files is prohibited without a seprate license agreement
 1. If you would like to sell Pirx frames, contact me via email 
-<a href="mailto:pspychalski@gmail.com">pspychalski@gmail.com</a>
+<a href="mailto:pspychalski@outlook.com">pspychalski@outlook.com</a>
 
 Pirx Frames are available to you free of any charge with tons of 3D printed accessories, designs and tunes. If you like my work, please consider sending me a small tip for coffee, beer or something! Thanks a lot!
 
@@ -49,7 +49,11 @@ Features:
 * (required) bumber spacers - 4pcs - print with PLA/PET/ABS
 * (optional) XT60 holder - Left or Right - print with TPU
 * (optional) Caddx Vista Antenna Mount - print with TPU
-* (optional) GoPro Hero 5/6/7 30 deg sleeve
+* (optional) GoPro Hero 5/6/7 30 deg sleeve - print with TPU
+* (optional) GoPro Hero 9/10/11 20 deg sleeve - print with TPU
+* (optional) GoPro Hero 9/10/11 Hugger / Protector - print with TPU
+* (optional) Matek M10-5883 tray - print with TPU
+* (optional) DJI O3 Air Unit antenna mount - print with TPU
 
 #### Other
 
